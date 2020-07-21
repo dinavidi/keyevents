@@ -1,5 +1,5 @@
 function Game() {
-    this.x = 200;
+    this.x = 150;
     this.y = 200;
     this.side = 39
     this.apple = {}
